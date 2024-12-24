@@ -1856,6 +1856,54 @@ return {
         ["Delay"] = false,
         ["Name"] = "KaidoBreath"
     },
+    ["rbxassetid://92251555825294"] = {
+        ["RepeatParryDelay"] = 10,
+        ["Range"] = 50,
+        ["Wait"] = 1100,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Custom"] = true,
+        ["RepeatParryAmount"] = 30,
+        ["Roll"] = false,
+        ["Delay"] = false,
+        ["Name"] = "Ws Whirl"
+    },
+    ["rbxassetid://96971457742631"] = {
+        ["RepeatParryDelay"] = 10,
+        ["Range"] = 50,
+        ["Wait"] = 1100,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Custom"] = true,
+        ["RepeatParryAmount"] = 30,
+        ["Roll"] = true,
+        ["Delay"] = false,
+        ["Name"] = "Ws roar"
+    },
+    ["rbxassetid://109553348368775"] = {
+        ["RepeatParryDelay"] = 10,
+        ["Range"] = 50,
+        ["Wait"] = 1100,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Custom"] = true,
+        ["RepeatParryAmount"] = 30,
+        ["Roll"] = true,
+        ["Delay"] = false,
+        ["Name"] = "Ws Dive"
+    },
+    ["rbxassetid://7469284305083"] = {
+        ["RepeatParryDelay"] = 10,
+        ["Range"] = 50,
+        ["Wait"] = 1100,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Custom"] = true,
+        ["RepeatParryAmount"] = 30,
+        ["Roll"] = false,
+        ["Delay"] = false,
+        ["Name"] = "Ws Beam"
+    },
     ["rbxassetid://11876148070"] = {
         ["RepeatParryDelay"] = 250,
         ["Range"] = 2500,
