@@ -4501,6 +4501,54 @@ return {
         ["Delay"] = false,
         ["Name"] = "Ice Carve Spin Loop"
     },
+    ["rbxassetid://17481302463"] = {
+        ["RepeatParryDelay"] = 10,
+        ["Range"] = 30,
+        ["Wait"] = 200,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Roll"] = false,
+        ["RepeatParryAmount"] = 4,
+        ["Custom"] = true,
+        ["Delay"] = false,
+        ["Name"] = "Ice Saint"
+    },
+    ["rbxassetid://17481293842"] = {
+        ["RepeatParryDelay"] = 10,
+        ["Range"] = 30,
+        ["Wait"] = 230,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Roll"] = false,
+        ["RepeatParryAmount"] = 1,
+        ["Custom"] = true,
+        ["Delay"] = false,
+        ["Name"] = "Gale Saint"
+    },
+    ["rbxassetid://17481296528"] = {
+        ["RepeatParryDelay"] = 10,
+        ["Range"] = 30,
+        ["Wait"] = 230,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Roll"] = false,
+        ["RepeatParryAmount"] = 1,
+        ["Custom"] = true,
+        ["Delay"] = false,
+        ["Name"] = "Shadow Saint"
+    },
+    ["rbxassetid://17481286354"] = {
+        ["RepeatParryDelay"] = 10,
+        ["Range"] = 30,
+        ["Wait"] = 230,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Roll"] = false,
+        ["RepeatParryAmount"] = 1,
+        ["Custom"] = true,
+        ["Delay"] = false,
+        ["Name"] = "Lighting Saint"
+    },
     ["rbxassetid://15238144593"] = {
         ["RepeatParryDelay"] = 0,
         ["Range"] = 30,
