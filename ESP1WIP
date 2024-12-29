@@ -3551,6 +3551,66 @@ return {
         ["Delay"] = false,
         ["Name"] = "Railblade1"
     },
+    ["rbxassetid://12138857946"] = {
+        ["RepeatParryDelay"] = 0,
+        ["Range"] = 20,
+        ["Wait"] = 265,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Roll"] = false,
+        ["RepeatParryAmount"] = 0,
+        ["Custom"] = true,
+        ["Delay"] = false,
+        ["Name"] = "Eye Of Malice 1"
+    },
+    ["rbxassetid://12138860062"] = {
+        ["RepeatParryDelay"] = 0,
+        ["Range"] = 20,
+        ["Wait"] = 265,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Roll"] = false,
+        ["RepeatParryAmount"] = 0,
+        ["Custom"] = true,
+        ["Delay"] = false,
+        ["Name"] = "Eye Of Malice 2"
+    },
+    ["rbxassetid://12138861998"] = {
+        ["RepeatParryDelay"] = 0,
+        ["Range"] = 20,
+        ["Wait"] = 265,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Roll"] = false,
+        ["RepeatParryAmount"] = 0,
+        ["Custom"] = true,
+        ["Delay"] = false,
+        ["Name"] = "Eye Of Malice 3"
+    },
+    ["rbxassetid://12138863931"] = {
+        ["RepeatParryDelay"] = 0,
+        ["Range"] = 20,
+        ["Wait"] = 265,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Roll"] = false,
+        ["RepeatParryAmount"] = 0,
+        ["Custom"] = true,
+        ["Delay"] = false,
+        ["Name"] = "Eye Of Malice 4"
+    },
+    ["rbxassetid://12138869158"] = {
+        ["RepeatParryDelay"] = 0,
+        ["Range"] = 20,
+        ["Wait"] = 310,
+        ["DelayDistance"] = 0,
+        ["Hold"] = false,
+        ["Roll"] = false,
+        ["RepeatParryAmount"] = 0,
+        ["Custom"] = true,
+        ["Delay"] = false,
+        ["Name"] = "Eye Of Malice Crit"
+    },
     ["rbxassetid://8161094751"] = {
         ["RepeatParryDelay"] = 0,
         ["Range"] = 15,
