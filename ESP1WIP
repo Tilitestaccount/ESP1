@@ -786,7 +786,7 @@ return {
         ["Delay"] = false,
         ["Custom"] = true
     },
-    ["rbxassetid://8130778356"] = {
+    ["rbxassetid://138936750616581"] = {
         ["RepeatParryDelay"] = 0,
         ["Range"] = 40,
         ["Wait"] = 260,
@@ -3647,7 +3647,7 @@ return {
         ["Delay"] = false,
         ["Name"] = "CrocDig"
     },
-    ["rbxassetid://8131374542"] = {
+    ["rbxassetid://85401018793125"] = {
         ["RepeatParryDelay"] = 0,
         ["Range"] = 100,
         ["Wait"] = 330,
@@ -4156,7 +4156,7 @@ return {
         ["Delay"] = false,
         ["Name"] = "ExhaustionStrike"
     },
-    ["rbxassetid://8130745441"] = {
+    ["rbxassetid://72369061749089"] = {
         ["RepeatParryDelay"] = 0,
         ["Range"] = 40,
         ["Wait"] = 260,
@@ -4299,7 +4299,7 @@ return {
         ["Delay"] = false,
         ["Name"] = "GolemSlam"
     },
-    ["rbxassetid://8131612979"] = {
+    ["rbxassetid://111024000122473"] = {
         ["RepeatParryDelay"] = 0,
         ["Range"] = 100,
         ["Wait"] = 650,
@@ -4346,7 +4346,7 @@ return {
         ["Delay"] = false,
         ["Roll"] = false
     },
-    ["rbxassetid://8131156119"] = {
+    ["rbxassetid://106711913879378"] = {
         ["RepeatParryDelay"] = 0,
         ["Range"] = 40,
         ["Wait"] = 260,
