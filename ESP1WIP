@@ -2303,7 +2303,7 @@ return {
     ["rbxassetid://9903304018"] = {
         ["RepeatParryDelay"] = 0,
         ["Range"] = 20,
-        ["Wait"] = 250,
+        ["Wait"] = 220,
         ["DelayDistance"] = 0,
         ["Custom"] = true,
         ["Hold"] = false,
@@ -3146,7 +3146,7 @@ return {
     ["rbxassetid://11710417615"] = {
         ["RepeatParryDelay"] = 0,
         ["Range"] = 100,
-        ["Wait"] = 250,
+        ["Wait"] = 320,
         ["DelayDistance"] = 0,
         ["Hold"] = true,
         ["Roll"] = false,
