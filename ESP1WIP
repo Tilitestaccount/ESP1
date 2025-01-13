@@ -1825,7 +1825,7 @@ return {
     ["rbxassetid://5117879514"] = {
         ["RepeatParryDelay"] = 0,
         ["Range"] = 35,
-        ["Wait"] = 250,
+        ["Wait"] = 420,
         ["DelayDistance"] = 0,
         ["Hold"] = false,
         ["Name"] = "SharkoSwipe",
@@ -1979,7 +1979,7 @@ return {
     ["rbxassetid://5121733951"] = {
         ["RepeatParryDelay"] = 500,
         ["Range"] = 35,
-        ["Wait"] = 250,
+        ["Wait"] = 420,
         ["Roll"] = false,
         ["DelayDistance"] = 0,
         ["Hold"] = false,
@@ -2532,7 +2532,7 @@ return {
     ["rbxassetid://5644214359"] = {
         ["RepeatParryDelay"] = 0,
         ["Range"] = 0,
-        ["Wait"] = 0,
+        ["Wait"] = 70,
         ["DelayDistance"] = 0,
         ["Hold"] = false,
         ["Roll"] = false,
@@ -4220,7 +4220,7 @@ return {
     ["rbxassetid://11710290503"] = {
         ["RepeatParryDelay"] = 0,
         ["Range"] = 35,
-        ["Wait"] = 250,
+        ["Wait"] = 370,
         ["DelayDistance"] = 0,
         ["Hold"] = false,
         ["Roll"] = true,
